@@ -15,8 +15,33 @@
     <atom:link href="https://gywse.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 12 Jan 2024 17:52:10 GMT</pubDate>
+    <pubDate>Fri, 12 Jan 2024 21:08:08 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>About</title>
+      <link>https://gywse.github.io/2024/01/13/About/</link>
+      <guid>https://gywse.github.io/2024/01/13/About/</guid>
+      <pubDate>Fri, 12 Jan 2024 21:05:48 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;z是tea打赏爱思啊实打实打算爱思</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>z是tea打赏爱思啊实打实打算爱思 </p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://gywse.github.io/2024/01/13/About/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hexo使用手册（流程）</title>
@@ -39,7 +64,7 @@
       
       
       
-      <category domain="https://gywse.github.io/tags/hexo/">hexo</category>
+      <category domain="https://gywse.github.io/tags/hexo-shop/">hexo,shop</category>
       
       
       <comments>https://gywse.github.io/2024/01/12/Hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/#disqus_thread</comments>
@@ -50,22 +75,28 @@
       <title>Hello World</title>
       <link>https://gywse.github.io/2024/01/12/hello-world/</link>
       <guid>https://gywse.github.io/2024/01/12/hello-world/</guid>
-      <pubDate>Fri, 12 Jan 2024 10:10:56 GMT</pubDate>
+      <pubDate>Fri, 12 Jan 2024 12:25:03 GMT</pubDate>
       
         
         
           
           
       <description>&lt;p&gt;Welcome to My Blog，还不知道写点什么，反正不要钱，先建了再说😂😂😂&lt;/p&gt;
-&lt;p&gt;&lt;img</description>
+&lt;!-- 使用js是为了高亮代码，不必在意 --&gt;
+&lt;!-- 参数如下： --&gt;
+&lt;div title=&quot;标题&quot; referrerPolicy=&quot;no-referrer&quot;</description>
           
         
       
       
       
-      <content:encoded><![CDATA[<p>Welcome to My Blog，还不知道写点什么，反正不要钱，先建了再说😂😂😂</p><p><img src="https://images.unsplash.com/photo-1673586410488-b694d350756e?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=javier-miranda-N7mrKzGhKro-unsplash.jpg"></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>Welcome to My Blog，还不知道写点什么，反正不要钱，先建了再说😂😂😂</p><!-- 使用js是为了高亮代码，不必在意 --><!-- 参数如下： --><div title="标题" referrerPolicy="no-referrer" class="card_box" style="background-image: url(背景); width:宽度; height:高度;">    <div class="card_mask">      <span>评价</span>      <a href="链接">查看详情</a>    </div>    <div class="card_top">      <i class="图标"></i>      <span>标签</span>    </div>    <div class="card_content">      <span>标题</span>      <div><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i></div>    </div>  </div><!-- 示例如下： --><div title="诡秘之主" referrerPolicy="no-referrer" class="card_box" style="background-image: url(https://bookcover.yuewen.com/qdbimg/349573/1010868264/300); width:200px; height:275px;">    <div class="card_mask">      <span>第一次接触这种西方文学小说，刚开始感觉看不懂，断断续续看了很多次。后来越看越觉好看，每次看甚至都需要查“文档”</span>      <a href="https://book.qidian.com/info/1010868264/">查看详情</a>    </div>    <div class="card_top">      <i class="fa-solid fa-book-open"></i>      <span>小说</span>    </div>    <div class="card_content">      <span>诡秘之主</span>      <div><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-alt"></i></div>    </div>  </div><!-- 你也可以什么都不填，将会全部使用默认值，如下： --><div title="未知" referrerPolicy="no-referrer" class="card_box" style="background-color: #333; width:200px; height:275px;">    <div class="card_mask">      <span>此作品博主暂未作出评价</span>          </div>    <div class="card_top">      <i class=""></i>      <span></span>    </div>    <div class="card_content">      <span>未知</span>      <div><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i></div>    </div>  </div><!-- 你也可以省略部分内容，如下： --><div title="诡秘之主" referrerPolicy="no-referrer" class="card_box" style="background-image: url(https://bookcover.yuewen.com/qdbimg/349573/1010868264/300); width:200px; height:275px;">    <div class="card_mask">      <span>此作品博主暂未作出评价</span>      <a href="https://book.qidian.com/info/1010868264/">查看详情</a>    </div>    <div class="card_top">      <i class=""></i>      <span></span>    </div>    <div class="card_content">      <span>诡秘之主</span>      <div><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i></div>    </div>  </div><!-- 位置在后面的参数不填的话可以直接省略，但是如果中间的不想填必须留空，如下： --><div title="诡秘之主" referrerPolicy="no-referrer" class="card_box" style="background-color: #333; width:200px; height:275px;">    <div class="card_mask">      <span>此作品博主暂未作出评价</span>          </div>    <div class="card_top">      <i class="fa-solid fa-book-open"></i>      <span>小说</span>    </div>    <div class="card_content">      <span>诡秘之主</span>      <div><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i></div>    </div>  </div><p><img src="https://images.unsplash.com/photo-1673586410488-b694d350756e?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=javier-miranda-N7mrKzGhKro-unsplash.jpg"></p>]]></content:encoded>
       
       
+      <category domain="https://gywse.github.io/categories/shop/">shop</category>
+      
+      
+      <category domain="https://gywse.github.io/tags/shop/">shop</category>
       
       
       <comments>https://gywse.github.io/2024/01/12/hello-world/#disqus_thread</comments>
