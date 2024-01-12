@@ -35,6 +35,8 @@
       
       
       
+      <content:encoded><![CDATA[<p>日常命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">hexo clean#删除整个public，不需要经常使用，偶尔清理使用。</span><br><span class="line">hexo s#启动服务器预览</span><br><span class="line">hexo g#生成静态文件夹public/</span><br><span class="line">hexo d#将生成的public部署到Github</span><br></pre></td></tr></table></figure>]]></content:encoded>
+      
       
       
       <category domain="http://example.com/tags/hexo/">hexo</category>
@@ -59,6 +61,8 @@
         
       
       
+      
+      <content:encoded><![CDATA[<p>Welcome to My Blog，还不知道写点什么，反正不要钱，先建了再说😂😂😂</p>]]></content:encoded>
       
       
       
