@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-01-12T10:10:56.480Z</updated>
+  <updated>2024-01-12T12:40:45.332Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo使用手册（流程）</title>
+    <link href="http://example.com/2024/01/12/Hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/"/>
+    <id>http://example.com/2024/01/12/Hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</id>
+    <published>2024-01-12T12:25:03.000Z</published>
+    <updated>2024-01-12T12:40:45.332Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;日常命令：&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
